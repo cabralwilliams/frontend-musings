@@ -1,0 +1,22 @@
+{
+  "name": "frontend-musings",
+  "version": "1.0.0",
+  "description": "A collaborative repository for experimenting with the frontend design of an application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabralwilliams/frontend-musings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabralwilliams/frontend-musings/issues"
+  },
+  "homepage": "https://github.com/cabralwilliams/frontend-musings#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
